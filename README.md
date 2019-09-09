@@ -3,6 +3,7 @@
 ![MGR Docker Stars](https://img.shields.io/docker/stars/nodecenter/mgr?label=mgr%20stars&style=for-the-badge)
 ![UX Docker Pulls](https://img.shields.io/docker/pulls/nodecenter/ux?label=ux%20pulls&style=for-the-badge)
 ![UX Docker Stars](https://img.shields.io/docker/stars/nodecenter/ux?label=ux%20stars&style=for-the-badge)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg?style=for-the-badge)](https://t.me/nodecenter)
 ![Made with love](https://img.shields.io/badge/Made%20with-love%20%E2%9D%A4%EF%B8%8F%EF%B8%8F-informational?style=for-the-badge)
 ![Powered by cows in Andorra](https://img.shields.io/badge/Powered%20by-cows%20%F0%9F%90%AE%F0%9F%87%A6%F0%9F%87%A9-green?style=for-the-badge)
 
