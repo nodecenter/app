@@ -1,12 +1,12 @@
 version: "3.7"
 services:
     backend:
-        image: registry.gitlab.com/nodecenter/mgr/mgr
+        image: nodecenter/mgr
         ports:
             - "5000:5000"
         volumes:
             - /var/run/docker.sock:/var/run/docker.sock
     frontend:
-        image: registry.gitlab.com/nodecenter/ux/ux
+        image: nodecenter/ux
         ports:
-            - "80:80"
+            - "8080:80"
