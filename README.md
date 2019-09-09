@@ -13,6 +13,13 @@ docker-compose up
 
 And click [here](http://localhost:8080) to see your app running!
 
+# Local
+The private key for the local node is:
+
+```
+132f23f1eb8ec71f3652df504a334af4c114bee80fc78324239cd3464561f610
+```
+
 # Voting
 To see the voting process and proceed to vote, you need to expose an extra RPC API, run this commands on a shell with a running node to enable it:
 
